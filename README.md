@@ -16,15 +16,15 @@ I'm a computer science student at the University of Illinois Chicago (software e
 - Prefer not to walk around? Use the buttons under the room to jump straight to any section.
 
 ## Object & what it shows
-                    |
-Computer - Projects 
-Bookshelf - Education 
-Work setup (TV) - Experience 
-Plant - Skills 
-Pin board - Capture the Flame 
-Bed - About me
-Phone - Contact 
-Door - Resume download 
+
+- Computer - Projects 
+- Bookshelf - Education 
+- Work setup (TV) - Experience 
+- Plant - Skills 
+- Pin board - Capture the Flame 
+- Bed - About me
+- Phone - Contact 
+- Door - Resume download 
 
 ## Built with
 
